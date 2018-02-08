@@ -6,6 +6,7 @@ bfa24d3ed11d507ddec74543e9bbffaa /home/robond/catkin_ws/devel/include/robot_pose
 684beb7fa3a287f7097e62feb8c518a3 /home/robond/catkin_ws/devel/share/gennodejs/ros/robot_pose_ekf/srv/GetStatus.js
 64d4fc9146b1a4fe30ce68942a40bc9c /home/robond/catkin_ws/devel/share/roseus/ros/robot_pose_ekf/manifest.l
 6b3c3bf584d93d5bbbe7b4a1b227d67a /home/robond/catkin_ws/devel/share/roseus/ros/robot_pose_ekf/srv/GetStatus.l
+69c9fae98bd1fb9729ad91965a3e74dc /home/robond/catkin_ws/devel/share/roseus/ros/udacity_bot/manifest.l
 a6e6d62480aaf37fa52cf6931a9f5e97 CMakeFiles/clean_test_results
 5ab524053172108b5bfe671764a9d796 robot_pose_ekf/CMakeFiles/_robot_pose_ekf_generate_messages_check_deps_GetStatus
 3c1ca3040b170b34d59e23953ec60e00 robot_pose_ekf/CMakeFiles/_run_tests_robot_pose_ekf_rostest_test_test_robot_pose_ekf.launch
